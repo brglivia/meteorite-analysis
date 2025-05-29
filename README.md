@@ -20,6 +20,7 @@ Este projeto apresenta uma análise exploratória de dados sobre meteoritos, com
 ---
 
 ## 📂 Conteúdo do Repositório
+- `meteorite_landings.xlsx`: Arquivo de dados utilizado na análise.
 - `app.py`: Aplicação Streamlit para visualização interativa dos dados.
 - `notebook.ipynb`: Notebook com a análise e limpeza dos dados.
 - `requirements.txt`: Arquivo com as dependências necessárias para rodar o app.
